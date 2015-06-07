@@ -5,9 +5,13 @@ jubujububossdy
 
 dfsd
 
+<<<<<<< HEAD
 
 
 
 
 
 ff
+=======
+GG
+>>>>>>> da7c72f52eb7b071b0e7a099cbe756c92ad7dfe2
